@@ -34,3 +34,14 @@ This project performs Exploratory Data Analysis (EDA) on a books dataset to iden
 
 ## Author
 Amit Jadhav
+
+## Project Structure
+- `Books_Sales_Publishing_Trend_Analysis_Using_Python.ipynb` → Main notebook containing the analysis
+- `Books_Data_Clean.csv` → Dataset used for analysis
+- `README.md` → Project documentation
+
+## How to Run
+1. Download or clone this repository.
+2. Open the Jupyter Notebook file.
+3. Make sure the dataset file is in the same folder as the notebook.
+4. Run all cells step by step.
